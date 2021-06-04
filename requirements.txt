@@ -3,7 +3,7 @@ autopep8==1.4.4
 black==19.10b0
 certifi==2019.11.28
 Click==7.0
-Django==2.2.1
+Django==2.2.21
 numpy==1.18.1
 pandas==0.25.3
 pathspec==0.7.0
